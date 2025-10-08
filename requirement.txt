@@ -1,8 +1,0 @@
-streamlit==1.39.0
-pandas==2.2.3
-matplotlib
-requests==2.32.3
-google-search-results
-serpapi
-
-google-serp-api
