@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+requests
+google-search-results
+serpapi
+google-serp-api
